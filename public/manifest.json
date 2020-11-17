@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Shop demo",
+  "name": "Simple shop demo for react router testing",
   "icons": [
     {
       "src": "favicon.ico",
